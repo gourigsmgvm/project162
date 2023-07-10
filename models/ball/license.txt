@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bowling Ball
+* source:	https://sketchfab.com/3d-models/bowling-ball-ceb4fb52099040a4a6e550a7f3c1cc9b
+* author:	DDO1_Models (https://sketchfab.com/DDO1_Models)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bowling Ball" (https://sketchfab.com/3d-models/bowling-ball-ceb4fb52099040a4a6e550a7f3c1cc9b) by DDO1_Models (https://sketchfab.com/DDO1_Models) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
